@@ -21,7 +21,7 @@ If you're using Cargo, just add `iron_middlefiddle` to your Cargo.toml:
 
 ```toml
 [dependencies]
-iron-middlefiddle = "0.1.0"
+iron-middlefiddle = "0.1.1"
 ```
 
 ## Example usage
