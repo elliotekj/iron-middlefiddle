@@ -1,7 +1,7 @@
 # `iron_middlefiddle` - Route specific middleware made easy
 
-[![Crates.io](https://meritbadge.herokuapp.com/iron_middlefiddle)](https://crates.io/crates/iron_middlefiddle)
-[![Docs](https://docs.rs/iron_middlefiddle/badge.svg)](https://docs.rs/iron_middlefiddle)
+[![Crates.io](https://meritbadge.herokuapp.com/iron-middlefiddle)](https://crates.io/crates/iron-middlefiddle)
+[![Docs](https://docs.rs/iron-middlefiddle/badge.svg)](https://docs.rs/iron-middlefiddle)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/elliotekj/iron-middlefiddle/blob/master/LICENSE)
 
 There are cases where you may only want specific routes within
@@ -21,7 +21,7 @@ If you're using Cargo, just add `iron_middlefiddle` to your Cargo.toml:
 
 ```toml
 [dependencies]
-iron_middlefiddle = "0.1.0"
+iron-middlefiddle = "0.1.0"
 ```
 
 ## Example usage
@@ -73,7 +73,7 @@ fn main() {
 ## Documentation
 
 The documentation for `iron_middlefiddle` is [available on
-docs.rs](https://docs.rs/iron_middlefiddle).
+docs.rs](https://docs.rs/iron-middlefiddle).
 
 ## License
 
