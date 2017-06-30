@@ -1,7 +1,15 @@
 [package]
 name = "iron-middlefiddle"
+description = "`iron_middlefiddle` provides a macro to make route-specific middleware in Iron an easy feat"
 version = "0.1.0"
 authors = ["Elliot Jackson <elliotekj@gmail.com>"]
+documentation = "https://docs.rs/iron_middlefiddle"
+homepage = "https://github.com/elliotekj/iron_middlefiddle"
+repository = "https://github.com/elliotekj/iron_middlefiddle"
+readme = "README.md"
+keywords = ["iron", "middleware", "middlefiddle", "auth", "router"]
+categories = ["web-programming", "web-programming::http-server"]
+license = "MIT"
 
 [dependencies]
 iron = "0.5.1"
